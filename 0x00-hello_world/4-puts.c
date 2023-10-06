@@ -6,7 +6,7 @@
 * return - ends the execution of a function
 */
 
-int main (void)
+int main(void)
 {
 	
 	puts("\"Programming is like building a multilingual puzzle);
