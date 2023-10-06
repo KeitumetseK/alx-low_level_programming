@@ -1,14 +1,14 @@
 #include <stdio.h>
 
 /**
-* main - seves as a starting point for program exection
+* main - serves as a starting point for program exection.
 * 
-* return - ends the execution of a function
+* return - ends the execution of a function. Always returns 0.
 */
 
 int main(void)
 {
 	
-	puts("\"Programming is like building a multilingual puzzle);
+	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
