@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 /**
- * main-serves as a starting point for program exection.
- * return-ends the execution of a function. Always returns 0.
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
 */
 
 int main(void)
